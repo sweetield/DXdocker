@@ -1,6 +1,6 @@
 #!/bin/sh
-UUID="5e81832a-d44b-4f27-9090-e20d3a65282e"
-CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page252/scenic.zip"
+UUID="7844b6f7-8a63-4e11-b065-9a704579fd13"
+CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page31/pollinate.zip"
 export PORT=${PORT-8080}
 export PATH_vless=${PATH_vless-/$UUID-vless}
 export PATH_trojan=${PATH_trojan-/$UUID-trojan}
