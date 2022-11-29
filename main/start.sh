@@ -1,5 +1,5 @@
 #!/bin/sh
-UUID="8f1737c1-63ff-4299-8292-47363f8ec452"
+UUID="25515912-7bd0-49d1-b5e2-4894f1ea9b17"
 CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page282/edukate.zip"
 export PORT=${PORT-8080}
 export PATH_vless=${PATH_vless-/$UUID-vless}
